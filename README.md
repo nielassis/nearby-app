@@ -3,11 +3,15 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nielassis/nearby-app?style=for-the-badge)  
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nielassis/nearby-app?style=for-the-badge)
 
-# Nearby: Clube de Benefícios ✏️
+# Nearby: Clube de Benefícios 📌
 
 <img src="./images/design.png" alt="Exemplo imagem">
 
 > O projeto **Nearby App** é um aplicativo mobile de clube de benefícios com cupons para utilizar em estabelecimentos próximos de você.
+
+### 🌟 Visão Geral
+
+O Nearby App foi desenvolvido para proporcionar uma experiência prática e moderna aos usuários que desejam aproveitar descontos e benefícios exclusivos em estabelecimentos locais. Com funcionalidades como visualização de mapa e scanner de QR Code, o aplicativo facilita o acesso a promoções próximas, tornando o dia a dia mais econômico e conveniente.
 
 ### 📚 Stack
 
